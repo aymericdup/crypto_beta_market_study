@@ -6,8 +6,8 @@ class ESTIMATION_FREQ(Enum):
     WEEKLY = 2
 
 # **************** DATA ****************
-DAILY_DATA_FILE_PATH = 'D:/Personal/Jobs/prepa interviews/Crypto united/cci30_daily.csv'
-WEEKLY_DATA_FILE_PATH = 'D:/Personal/Jobs/prepa interviews/Crypto united/cci30_weekly.csv'
+DAILY_DATA_FILE_PATH = ''
+WEEKLY_DATA_FILE_PATH = ''
 
 
 # *************** COMPUTATION *************
